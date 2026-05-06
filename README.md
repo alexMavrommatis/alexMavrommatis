@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @alexMavrommatis
 
-🏛️ Civil Engineer turned FinTech enthusiast — from Greece, with a Spartan mindset.
+🏛️ Civil Engineer turned FinTech enthusiast.
 
 🎓 Currently pursuing my **Master's in FinTech**, where I bridge engineering with financial markets.
 
