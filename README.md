@@ -6,7 +6,7 @@
 
 #### 🔭 What I'm working on
 
-- 🤖 **LLMs & GenAI** — exploring how large language models can power financial workflows
+- 🤖 **LLMs & GenAI** — exploring how large language models
 - 📈 **Algorithmic Trading** — building and backtesting quantitative strategies in Python
 - 🧠 Deep Learning fundamentals & applied ML
 
